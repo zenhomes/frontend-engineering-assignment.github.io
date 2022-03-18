@@ -23,6 +23,6 @@ Head to this [codesandbox.io](https://codesandbox.io/s/engineering-assignment-48
 
 
 ## Once you're done
-Once you are finished, send us a short presentation of the work you did as well as the URL of your forked codesandbox.
+Once you are finished, send us via email a short explanation of the work you did as well as the URL of your forked codesandbox.
 
 ## Good luck!
