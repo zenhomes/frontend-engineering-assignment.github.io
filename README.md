@@ -14,7 +14,7 @@ Head to this [codesandbox.io](https://codesandbox.io/s/engineering-assignment-48
 - Good code: make sure the code is well written for humans, is easily testable and scalable.
 - Good architecture for your components and the overall project structure.
 - Frontend expertise: show us that you know how to use React effectively and don’t neglect the HTML/CSS part. Think about different devices, their screen sizes, input methods, network conditions. 
-- How you think about the code you put on a shared codebase (document your changes on your PR)
+- How you think about the code you put on a shared codebase (document your changes).
 
 
 ## What we’re not looking for:
@@ -23,6 +23,6 @@ Head to this [codesandbox.io](https://codesandbox.io/s/engineering-assignment-48
 
 
 ## Once you're done
-Once you are finished, send us an email with the URL of your forked codesandbox.
+Once you are finished, send us a short presentation of the work you did as well as the URL of your forked codesandbox.
 
 ## Good luck!
