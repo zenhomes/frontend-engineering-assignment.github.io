@@ -11,10 +11,10 @@ Head to this [codesandbox.io](https://codesandbox.io/s/frontend-engineering-assi
 
 
 ## What we’ll be looking for:
-- Good code: make sure the code is well written for humans, is easily testable and scalable.
+- We want you to approach those challenges as regular feature tickets. That means that you have full ownership on making decisions regarding your features (documentation, comments, tests etc).
+- Good code: make sure the code is well written for humans and is scalable.
 - Good architecture for your components and the overall project structure.
-- Frontend expertise: show us that you know how to use React effectively and don’t neglect the HTML/CSS part. Think about different devices, their screen sizes, input methods, network conditions. 
-- How you think about the code you put on a shared codebase (document your changes).
+- Frontend expertise: show us that you know how to use React effectively and don’t neglect the HTML/CSS part. Think about different devices, their screen sizes, input methods, network conditions.
 
 
 ## What we’re not looking for:
