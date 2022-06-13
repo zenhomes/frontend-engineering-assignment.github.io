@@ -1,7 +1,7 @@
 ## Challenge Overview
 In this challenge we’ll focus on your Frontend and problem solving skills. Here are 3 challenges to work on, you can pick 2 and evolve the current project.
 
-1. Fix the sort by implementation in the Header component so that we can filter by status completed
+1. Fix the sort by implementation in the Header component so that we can sort todos by status completed
 2. Create a load more button that loads 10 more results
 3. Refactor the Todo component and sniff out the code smells
 
